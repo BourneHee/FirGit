@@ -2,4 +2,4 @@
 
 git跟踪的是修改 不是跟踪文件
 
-测试撤销修改 
+测试撤销修改 (git checkout -- fileName    让这个文件回到最近一次git commit或git add时的状态。)
