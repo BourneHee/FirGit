@@ -9,3 +9,4 @@
 找回之前的版本git reset --hard commit_id 用git reflog命令查看各个版本的commit_id
 
 学习暂存区（stage），分支(master 是git默认建立的一个分支)；当git add时实际是将修改的文件放进暂存区，git commi真正的将修改提交到分支中
+20171227 学习git 关联远程库 
